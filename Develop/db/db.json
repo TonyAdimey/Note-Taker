@@ -1,0 +1,21 @@
+[
+    {
+        "title":"Test Title",
+        "text":"Test text"
+    },
+    {
+        "title": "Go to the gym",
+        "text": "Go to the gym at 6:30",
+        "note_id": ""
+    },
+    {
+        "title": "Do homework",
+        "text": "Work on homework for school",
+        "note_id": ""
+    },
+    {
+        "title": "Grocery Shopping",
+        "text": "Go grocery shopping to make dinner",
+        "note_id": ""
+    }
+]
